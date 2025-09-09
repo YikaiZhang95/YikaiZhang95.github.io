@@ -47,10 +47,6 @@
 - **Repo**: https://github.com/YOUR_LINK_HERE • **Slides**: YOUR_LINK_HERE • **Data Notes**: YOUR_LINK_HERE
 
 
-#### 5) DROS (Disjuncts‑Robust Oversampling)
-- R implementation; imbalance‑aware resampling for high‑dimensional classifiers.
-- **Repo**: https://github.com/YOUR_LINK_HERE
-
 
 > _More projects →_ [All repositories](https://github.com/YikaiZhang95?tab=repositories)
 
