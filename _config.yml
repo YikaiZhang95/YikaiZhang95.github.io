@@ -1,5 +1,18 @@
-title: Yikai Zhanag
-logo: Headshot.jpg
-description: 2025 Graduate 
-show_downloads: no
-theme: jekyll-theme-minimal
+```yaml
+title: "Yikai Zhang"
+description: "Ph.D. in Statistics • Machine Learning • GPU Acceleration • Open‑Source"
+baseurl: ""
+url: "https://YikaiZhang95.github.io"
+theme: minima
+show_excerpts: true
+
+
+# Social
+github_username: YikaiZhang95
+linkedin_username: www.linkedin.com/in/yikai-zhang-66a01b160
+
+
+# Build settings
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
