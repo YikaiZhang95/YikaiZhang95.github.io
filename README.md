@@ -9,9 +9,11 @@
 
 
 ### 🧑‍🔬 About
-- Ph.D. candidate in Statistics (University of Iowa) focused on **modern large‑margin classifiers** and **GPU acceleration**.
-- Build open‑source libraries in **PyTorch** and **R**; integrate **Fortran/CUDA** kernels.
-- Domain apps: **insurance risk modeling** (frequency–severity/SAFE), climate extremes, and large‑scale classification.
+I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and machine learning:
+- Developed innovative algorithms, including the Finite Smoothing Algorithm and Generalized Takeuchi’s Information Criteria, transforming SVM and large-margin classifiers.
+- Proficient in Python, R, SQL, and Fortran, delivering high-performance tools and open-source packages; integrate **Fortran/CUDA** kernels.
+- Published author with research showcased at ICML, driving advancements in statistical methodologies.
+- Successfully collaborated across diverse industries, including insurance and chemical manufacturing, to deliver impactful tools.
 
 
 ### 🛠️ Tech Stack
