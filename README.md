@@ -7,10 +7,6 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=YikaiZhang95&style=flat">
 </p>
 
-
----
-
-
 ### 🧑‍🔬 About
 - Ph.D. candidate in Statistics (University of Iowa) focused on **modern large‑margin classifiers** and **GPU acceleration**.
 - Build open‑source libraries in **PyTorch** and **R**; integrate **Fortran/CUDA** kernels.
