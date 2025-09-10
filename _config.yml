@@ -3,7 +3,7 @@ description: "Ph.D. in Statistics • Machine Learning • GPU Acceleration • 
 logo: yikai.jpg
 baseurl: ""
 url: "https://YikaiZhang95.github.io"
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 show_excerpts: true
 
 
@@ -16,4 +16,3 @@ linkedin_username: www.linkedin.com/in/yikai-zhang-66a01b160
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
-- jekyll-include-cache 
