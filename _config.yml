@@ -6,7 +6,17 @@ url: "https://YikaiZhang95.github.io"
 theme: jekyll-theme-minimal
 show_excerpts: true
 
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
 
+social_links:
+  - title: Jekyll repository at GitHub
+    icon: github
+    url: "https://github.com/YikaiZhang95"
+  - title: Jekyll at X (formerly Twitter)
+    icon: Linkedin
+    url: "www.linkedin.com/in/yikai-zhang-66a01b160"
 # Social
 github_username: YikaiZhang95
 linkedin_username: www.linkedin.com/in/yikai-zhang-66a01b160
