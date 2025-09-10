@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Yikai 👋</h1>
+<h1 align="center">Hi, I'm Yikai Zhang👋</h1>
 <p align="center">
 <a href="https://scholar.google.com/YOUR_LINK_HERE"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?logo=google-scholar&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/yikai-zhang-66a01b160"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yikai-zhang-66a01b160"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
 <a href="https://pypi.org/user/yikaizhang/"><img alt="PyPI" src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white"></a>
 <a href="mailto:yikai.zhang@uiowa.edu"><img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"></a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=YikaiZhang95&style=flat">
