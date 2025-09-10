@@ -1,10 +1,11 @@
-title: "Yikai Zhang"
+title: ""
 description: "Ph.D. in Statistics • Machine Learning • GPU Acceleration • Open‑Source"
 logo: yikai.jpg
 baseurl: ""
 url: "https://YikaiZhang95.github.io"
 theme: jekyll-theme-minimal
 show_excerpts: true
+author: Yikai Zhang
   
 github_username: YikaiZhang95
 linkedin_username: www.linkedin.com/in/yikai-zhang-66a01b160
