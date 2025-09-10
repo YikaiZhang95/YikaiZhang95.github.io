@@ -5,12 +5,6 @@ baseurl: ""
 url: "https://YikaiZhang95.github.io"
 theme: jekyll-theme-minimal
 show_excerpts: true
-
-# Social
-social-network-links:
-  email: "yikai-zhang@uiowa.edu"
-  github: YikaiZhang95
-  linkedin: yikai-zhang-66a01b160
   
 github_username: YikaiZhang95
 linkedin_username: www.linkedin.com/in/yikai-zhang-66a01b160
