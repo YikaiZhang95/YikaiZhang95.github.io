@@ -6,7 +6,8 @@
 <a href="mailto:yikai.zhang@uiowa.edu"><img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"></a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=YikaiZhang95&style=flat">
 </p>
-<img src="https://YikaiZhang95.github.io/yikai.jpg" width="250" alt="Yikai Zhang"/>
+
+
 ### 🧑‍🔬 About
 - Ph.D. candidate in Statistics (University of Iowa) focused on **modern large‑margin classifiers** and **GPU acceleration**.
 - Build open‑source libraries in **PyTorch** and **R**; integrate **Fortran/CUDA** kernels.
