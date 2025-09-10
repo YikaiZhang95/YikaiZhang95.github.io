@@ -17,15 +17,15 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 
 
 ### 🛠️ Tech Stack
-**Languages**: Python, R, CUDA C/C++, Fortran, SQL
-**ML**: PyTorch, Triton, cuBLAS/cuSOLVER, scikit‑learn, XGBoost
-**Systems**: Linux, GitHub Actions, packaging (PyPI/R‑pkg), profiling & benchmarks
+- **Languages**: Python, R, CUDA C/C++, Fortran, SQL
+- **ML**: PyTorch, scikit‑learn, XGBoost
+- **Systems**: HPC, GitHub Actions, packaging (PyPI/R‑pkg)
 
 
 ### ⭐ Featured Projects
 
 
-#### 1) TorchKSVM (PyTorch, GPU‑accelerated Kernel SVM)
+#### 1) TorchSVM (PyTorch, GPU‑accelerated Kernel SVM)
 - Exact LOOCV/spectral tricks; scalable training & model selection on large kernels.
 - GPU memory tuning (e.g., `PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True`).
 - **Repo**: https://github.com/YOUR_LINK_HERE • **Paper/Preprint**: YOUR_LINK_HERE • **Docs**: YOUR_LINK_HERE
