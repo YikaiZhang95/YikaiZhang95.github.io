@@ -21,6 +21,22 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 - **ML**: PyTorch, scikit‑learn, XGBoost
 - **Systems**: HPC, GitHub Actions, packaging (PyPI/R‑pkg)
 
+### 💼 Work Experience
+
+**Data Science Intern** — UFG Insurance _(Summer 2024)_  
+- Developed predictive models for bodily injury cost estimation and open vs closed claims.  
+- Applied **XGBoost, H2O, and statistical modeling** to improve performance.  
+- Built pipelines for IRV extraction with **LLMs**.  
+
+**Data Science Intern** — Dow Inc. _(Summer 2023)_  
+- Conducted applied machine learning and statistical analysis projects.  
+- Collaborated across functional teams to deliver insights from large datasets.  
+
+**Graduate Researcher** — University of Iowa _(2019–Present)_  
+- Research on **large-scale kernel SVMs**, GPU acceleration, and insurance risk modeling.  
+- Built open-source packages (**TorchKSVM, cvksvm, SAFE, DROS**) in PyTorch and R.  
+- Integrated Fortran/CUDA kernels for high-performance computing.  
+
 
 ### ⭐ Featured Projects
 
