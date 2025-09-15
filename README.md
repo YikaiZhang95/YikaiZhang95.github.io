@@ -11,8 +11,8 @@
 ### 🧑‍🔬 About
 I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and machine learning:
 - Developed innovative algorithms, including the Finite Smoothing Algorithm and Generalized Takeuchi’s Information Criteria, transforming SVM and large-margin classifiers.
-- Proficient in Python, R, SQL, and Fortran, delivering high-performance tools and open-source packages; integrate **Fortran/CUDA** kernels.
-- Published author with research showcased at ICML, driving advancements in statistical methodologies.
+- Proficient in Python, R, SQL, and Fortran, delivering high-performance tools and **open-source packages**; integrate **Fortran/CUDA** kernels.
+- Published author with research showcased at **ICML**.
 - Successfully collaborated across diverse industries, including insurance and chemical manufacturing, to deliver impactful tools.
 
 
@@ -24,9 +24,9 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 ### 💼 Work Experience
 
 **Data Science Intern** — UFG Insurance _(Summer 2024)_  
-- Developed predictive models for bodily injury cost estimation and open vs closed claims.  
-- Applied **XGBoost, H2O, and statistical modeling** to improve performance.  
-- Built pipelines for IRV extraction with **LLMs**.  
+- Refitted a bodily injury cost model with XGBoost and LLMs, improving prediction accuracy by about **10%** over the prior model。  
+- Built a Python Shiny tool integrating SQL and LLMs to estimate insurable replacement value.
+- Automated fraud detection from police reports with an LLM-based backend which significantly boosts claim flagging efficiency.  
 
 **Data Science Intern** — Dow Inc. _(Summer 2023)_  
 - Conducted applied machine learning and statistical analysis projects.  
