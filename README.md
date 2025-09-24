@@ -70,7 +70,15 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 - ICML‑adjacent work on kernel SVMs and scalable CV; open‑source software papers (JMLR‑style).
 - See **Google Scholar** and preprints: YOUR_LINK_HERE.
 
+### Softwares
+#### TorchSVM
+[![PyPI Version](https://img.shields.io/pypi/v/torchsvm)](https://pypi.org/project/torchksvm/)
+[![Downloads](https://pepy.tech/badge/torchsvm)](https://pepy.tech/project/torchsvm)
 
+GPU-accelerated kernel SVM with exact LOOCV and scalable model selection.
+
+#### hdsvm
+![CRAN Downloads](https://cranlogs.r-pkg.org/badges/grand-total/hdsvm)
 ### 🎙️ Talks
 - Prospectus: “Computational Advancements for SVM” — GPU architecture, LOOCV, large‑scale kernels.
 - Invited/internal talks on SAFE (insurance analytics) and PyTorch/Fortran/CUDA integration.
