@@ -24,51 +24,45 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 ### 💼 Work Experience
 
 **Data Science Intern** — UFG Insurance _(Summer 2024)_  
-- Refitted a bodily injury cost model with XGBoost and LLMs, improving prediction accuracy by about **10%** over the prior model。  
+- Refitted a bodily injury (BI) cost model in commercial auto (CA) insurance using XGBoost; leveraged large language models (LLMs) to extract, validate, and interpret multi-source data, improving prediction  accuracy by 15% and significantly enhancing model robustness.  
 - Built a Python Shiny tool integrating SQL and LLMs to estimate insurable replacement value.
 - Automated fraud detection from police reports with an LLM-based backend which significantly boosts claim flagging efficiency.  
 
 **Data Science Intern** — Dow Inc. _(Summer 2023)_  
-- Conducted applied machine learning and statistical analysis projects.  
-- Collaborated across functional teams to deliver insights from large datasets.  
+- Developed a DOE simulation app (R + Shiny) that improved design efficiency by 50% and computation speed by 35%. 
+- Enhanced usability for statisticians and engineers, achieving 90%+ user satisfaction. 
 
 **Graduate Researcher** — University of Iowa _(2019–Present)_  
-- Research on **large-scale kernel SVMs**, GPU acceleration, and insurance risk modeling.  
-- Built open-source packages (**TorchKSVM, cvksvm, SAFE, DROS**) in PyTorch and R.  
+- Research on **large-scale kernel SVMs**, **kernel logistics regression**, GPU acceleration, and insurance risk modeling.  
+- Built open-source packages (**TorchSVM, hdsvm, SAFE, GTIC**) in PyTorch and R.  
 - Integrated Fortran/CUDA kernels for high-performance computing.  
 
 
 ### ⭐ Featured Projects
 
 
-#### 1) TorchSVM (PyTorch, GPU‑accelerated Kernel SVM)
-- Exact LOOCV/spectral tricks; scalable training & model selection on large kernels.
-- GPU memory tuning (e.g., `PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True`).
-- **Repo**: https://github.com/YOUR_LINK_HERE • **Paper/Preprint**: YOUR_LINK_HERE • **Docs**: YOUR_LINK_HERE
+#### 1)  Efficient Kernel Large-Margin Classifiers with Exact Cross-Validation Error Computation in PyTorch
+- Developed TorchSVM, a PyTorch-based library that efficiently trains kernel SVMs and computes exact leave-one-out cross-validation (LOOCV) errors with GPU acceleration.
+- Achieved scalable and fast computation, reducing the cost of LOOCV to that of training a single SVM, making large-scale kernel classification practical.
+- Benchmarked superior performance against existing solvers (e.g., LibSVM, scikit-learn), with significant improvements in speed and scalability.
+- **Repo**: [torchsvm](https://github.com/YikaiZhang95/torchsvm)
+- **Docs**: [torchsvm](https://pypi.org/project/torchsvm/)
 
-
-#### 2) MagicSVM / TorchSVM
-- Clean APIs for margin‑based classifiers; CPU/GPU backends; benchmarks vs mainstream solvers.
-- **Repo**: https://github.com/YOUR_LINK_HERE
-
-
-#### 3) cvksvm (R)
-- Cross‑validated kernel SVM with efficient paths; interfaces to Fortran routines.
-- **Repo**: https://github.com/YOUR_LINK_HERE • **Pkgdown**: YOUR_LINK_HERE
-
-
-#### 4) SAFE: Sign‑Aligned Frequency–Severity for Climate Losses
-- Frequency/severity components with sign‑aligned regularization; meteorological features (GridMET).
-- **Repo**: https://github.com/YOUR_LINK_HERE • **Slides**: YOUR_LINK_HERE • **Data Notes**: YOUR_LINK_HERE
-
-
+#### 2) Finite Smoothing Algorithm for High-Dimensional Support Vector Machines and Quantile Regression
+- Introduced a finite smoothing algorithm (FSA), a novel approach to tackle computational challenges in applying support vector machines (SVM) and quantile regression to high-dimensional data.
+- Implemented FSA using the coordinate descent method and demonstrated that FSA significantly outpaces its competitors in speed, often by orders of magnitude, while maintaining or improving precision.
+- Developed twoopen-source R packages: hdsvm for high-dimensional SVM and hdqr for high-dimensional quantile regression.
+- **Repo**: [FSA](https://github.com/YikaiZhang95/hdsvm)
+- **Paper**: [FSA](https://openreview.net/pdf?id=RvwMTDYTOb)
 
 > _More projects →_ [All repositories](https://github.com/YikaiZhang95?tab=repositories)
 
 
 ### 📄 Publications & Writing
-- ICML‑adjacent work on kernel SVMs and scalable CV; open‑source software papers (JMLR‑style).
-- See **Google Scholar** and preprints: YOUR_LINK_HERE.
+- Tang, Q.∗, Zhang, Y.∗, and Wang, B. Finite Smoothing Algorithm for High-Dimensional Support Vector
+ Machines and Quantile Regression. International Conference on Machine Learning (ICML), 2024.
+-  Zhang,Y.,Jia, G., andWang, B.TorchKSVM:EfficientKernelLarge-MarginClassifierswithExactCross
+Validation Error Computation in PyTorch. To be submitted.
 
 ### Softwares
 #### TorchSVM
@@ -76,29 +70,27 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 [![Downloads](https://pepy.tech/badge/torchsvm)](https://pepy.tech/project/torchsvm)
 
 GPU-accelerated kernel SVM with exact LOOCV and scalable model selection.
+```python
+pip install torchsvm
+```
 
 #### hdsvm
 ![CRAN Downloads](https://cranlogs.r-pkg.org/badges/grand-total/hdsvm)
+
+- Implements an efficient algorithm for fitting the entire regularization path of support vector machine models with elastic-net penalties using a generalized coordinate descent scheme. The framework also supports SCAD and MCP penalties. It is designed for high-dimensional datasets and emphasizes numerical accuracy and computational efficiency.
+- **Docs**: [hdsvm](https://cran.r-project.org/web/packages/hdsvm/index.html)
+  
+```r
+install.packages("hdsvm")
+```
+
+
 ### 🎙️ Talks
-- Prospectus: “Computational Advancements for SVM” — GPU architecture, LOOCV, large‑scale kernels.
-- Invited/internal talks on SAFE (insurance analytics) and PyTorch/Fortran/CUDA integration.
+- Prospectus: On Advanced and Modern Computational Frameworks for Support Vector Machines. University of Iowa.
+
 
 
 ### 🤝 Collaboration
-I’m open to research collabs, industry partnerships (ML/Stats/Insurance), and OSS contributions.
-**Email**: yikai.zhang@YOUR_EMAIL_DOMAIN
-**Calendly**: YOUR_LINK_HERE
+I’m open to research collabs, industry partnerships (ML/Stats/Insurance).
+**Email**: yikai-zhang@uiowa.edu
 
-
----
-
-
-### 📦 Install (examples)
-```bash
-# Python (TorchKSVM)
-pip install torchksvm # if published
-
-
-# R (cvksvm)
-# install.packages("devtools")
-devtools::install_github("YikaiZhang95/cvksvm")
