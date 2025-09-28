@@ -6,9 +6,11 @@
 <a href="mailto:yikai.zhang@uiowa.edu"><img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"></a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=YikaiZhang95&style=flat">
 </p>
-
+<meta name="description" content="This is my Github page. I'm a developer and I share my code here.">
+<meta name="keywords" content="developer, code, github, page, Yikai Zhang">
 
 ### 🧑‍🔬 About
+
 I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and machine learning:
 - Developed innovative algorithms, including the Finite Smoothing Algorithm and Generalized Takeuchi’s Information Criteria, transforming SVM and large-margin classifiers.
 - Proficient in Python, R, SQL, and Fortran, delivering high-performance tools and **open-source packages**; integrate **Fortran/CUDA** kernels.
