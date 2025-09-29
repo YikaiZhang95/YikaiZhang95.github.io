@@ -17,6 +17,7 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 - Published author with research showcased at **ICML**.
 - Successfully collaborated across diverse industries, including insurance and chemical manufacturing, to deliver impactful tools.
 
+**Now I'm open to work!**
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, R, CUDA C/C++, Fortran, SQL
