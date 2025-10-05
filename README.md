@@ -9,7 +9,7 @@
 <meta name="description" content="This is my Github page. I'm a developer and I share my code here.">
 <meta name="keywords" content="dcode, github, page, Yikai Zhang, torch, svm, high dimentional, kernel, uiowa">
 
-### 🧑‍🔬 About
+###  About
 
 I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and machine learning:
 - Developed innovative algorithms, including the Finite Smoothing Algorithm and Generalized Takeuchi’s Information Criteria, transforming SVM and large-margin classifiers.
@@ -19,12 +19,12 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 
 **Now I'm open to work!**
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Languages**: Python, R, CUDA C/C++, Fortran, SQL
 - **ML**: PyTorch, scikit‑learn, XGBoost
 - **Systems**: HPC, GitHub Actions, packaging (PyPI/R‑pkg)
 
-### 💼 Work Experience
+### Work Experience
 
 **Data Science Intern** — UFG Insurance _(Summer 2024)_  
 - Refitted a bodily injury (BI) cost model in commercial auto (CA) insurance using XGBoost; leveraged large language models (LLMs) to extract, validate, and interpret multi-source data, improving prediction  accuracy by 15% and significantly enhancing model robustness.  
@@ -41,7 +41,7 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 - Integrated Fortran/CUDA kernels for high-performance computing.  
 
 
-### ⭐ Featured Projects
+### Featured Projects
 
 
 #### 1)  Efficient Kernel Large-Margin Classifiers with Exact Cross-Validation Error Computation in PyTorch
@@ -61,7 +61,7 @@ I'm a statistical Ph.D. candidate with 10+ years of experience in statistics and
 > _More projects →_ [All repositories](https://github.com/YikaiZhang95?tab=repositories)
 
 
-### 📄 Publications & Writing
+### Publications & Writing
 - Tang, Q.∗, Zhang, Y.∗, and Wang, B. Finite Smoothing Algorithm for High-Dimensional Support Vector
  Machines and Quantile Regression. International Conference on Machine Learning (ICML), 2024.
 -  Zhang,Y.,Jia, G., andWang, B.TorchKSVM:EfficientKernelLarge-MarginClassifierswithExactCross
@@ -88,12 +88,12 @@ install.packages("hdsvm")
 ```
 
 
-### 🎙️ Talks
+### Talks
 - Prospectus: On Advanced and Modern Computational Frameworks for Support Vector Machines. University of Iowa.
 
 
 
-### 🤝 Collaboration
+### Collaboration
 I’m open to research collabs, industry partnerships (ML/Stats/Insurance).
 **Email**: yikai-zhang@uiowa.edu
 
